@@ -123,7 +123,7 @@ jQuery(document).ready(function(){
 					},
 						zoom:15,
 							   markers: [
-							{ 'address' : 'Bombay Stock Exchange, Mumbai, Maharashtra'}
+							{ 'address' : 'HiTech City, Hyderabad, Telangana'}
 						]
 							   
 							   
