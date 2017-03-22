@@ -102,7 +102,7 @@ jQuery(document).ready(function(){
 		//  COMMENT 	
 				jQuery(document).ready(function(){
 
-				jQuery('#map').gMap({ address: 'Bombay Stock Exchange, Mumbai',
+				jQuery('#map').gMap({ address: '2919 EL Camino Real, Santa Clara',
 							   panControl: true,
 						   zoomControl: true,
 							   zoomControlOptions: {
